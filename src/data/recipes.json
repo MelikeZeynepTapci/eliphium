@@ -1,0 +1,204 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Zencefilli Kurabiye",
+        "ingredients": [
+            {
+                "name": "tereyağı",
+                "quantity": "150 gr"
+            },
+            {
+                "name": "toz şeker veya esmer şeker veya yarı yarıya ikisi birde",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "yumurta sarısı",
+                "quantity": "1 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "3-3,5 sb"
+            },
+            {
+                "name": "kabartma tozu",
+                "quantity": "½ pk"
+            },
+            {
+                "name": "pekmez",
+                "quantity": "½ sb"
+            },
+            {
+                "name": "toz zencefil",
+                "quantity": "1 çk"
+            },
+            {
+                "name": "tarçın",
+                "quantity": "1 tk"
+            },
+            {
+                "name": "muskat",
+                "quantity": "½ çk"
+            }
+        ],
+        "instructions": "Şeker ile tereyağı şekerler iyice eriyene kadar çırpıyoruz. İçerisine yumurta sarısını ve pekmezi de ekleyerek devam ediyoruz. Daha sonra baharatlarımız ve dikkat ede ede unumuzu ekliyoruz. Un konusunda tam ölçü vermiyorum çünkü kullanacağınız pekmezin kıvamına göre değişecek bir şey. O yüzden önemli olan kıvam. Daha sonra hamurumuzu iyice toparlayarak ikiye bölüyoruz ve parçaları streç filme sarıp 1 saat buzdolabında dinlenmeye bırakıyoruz. Daha sonra ikiye ayırdığımız parçaları teker teker çıkarıp iki yağlı kağıt arasına koyuyoruz ve merdane yardımıyla iyice açıyoruz. Daha sonra hamur kalıplarıyla şekillendirip kalan hamurları elimizle toparlayıp yeniden aynı işlemleri uyguluyoruz. Bu süreçte dikkat edilmesi gereken en önemli nokta: Hamur sürekli ısınıyor, ısındıkça yumuşayacak ve kalıpla şekilleri kesmesi veya aktarması zor olacak. Bu sebeple hamurun ısındığını ve iyice yumuşadığını fark ettiğiniz an buzdolabında bir 5 dakika yeniden soğuması için bırakın. Tüm o hamurlar bitene kadar aynı işlemi tekrarlayın.Tüm o hamurlar bitene kadar aynı işlemi tekrarlayın. Tüm hamurlar bittiğinde 150-160 derecede önceden ısıtılmış fırında 8-10 dakika kadar pişiriyoruz. Kenarları hafif renk aldığında kurabiyelerin hamurdan çıkma zamanı gelmiştir. Bu yüzden fazla pişirmemeye dikkat edin. Fırından çıkan kurabiyeler iyice soğuduktan sonra dilerseniz kendiniz hazırlarsanız, dilerseniz de @droetkerturkiye ’nin süsleme için renkli glazürleri ile istediğiniz gibi süsleyebilirsiniz.",
+        "cook_time": 10,
+        "prep_time": 10,
+        "desc": "Aralığın başından beri yemek işiyle ilgilenip de Instagram’da zencefilli kurabiye tarifi paylaşmayan kalmadı? Bence kalmadı.😄 Kalmasın da zaten! Neden zencefilli kurabiye yapmayalım ki? Siz neden yapmayasınız ki? Neden eviniz mis gibi kurabiye kokmasın? O tarçın, zencefil, muskat ve pekmezin nefis birleşimi ağzınızı sulandırmasın?🤤 Neden çayın, kahvenin, sütün yanına bu kıtır kıtır kurabiyelerden yemeyesiniz? Neden şekil verirken ya da sonrasında renkli renkli veya beyaz süslerken çocuklar gibi eğlenmeyesiniz ki?😍 İtiraf etmem gerekirse, benim bu kurabiyelerle ilgili en sevdiğim şey, süslemesi. Resmen sadece süslemek için bile yapabilirim bu kurabiyeyi. Ama bu aramızda sır olarak kalsın.🤫",
+        "link": "https://www.instagram.com/p/CJTuDcdgsvk/",
+        "ingr_list": [
+            "Tereyağı",
+            "Şeker",
+            "Yumurta sarısı",
+            "Un",
+            "Zencefil, Tarçın, Muskat",
+            "Pekmez"
+        ]
+    },
+    {
+        "id": 2,
+        "recipe_name": "Bademli Kurabiye",
+        "ingredients": [
+            {
+                "name": "tereyağı (oda sıcaklığında)",
+                "quantity": "150 gr"
+            },
+            {
+                "name": "pudra şekeri",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "yumurta sarısı",
+                "quantity": "1 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "2 sb"
+            },
+            {
+                "name": "badem unu",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "Çiğ badem (dilediğiniz kadar olur)",
+                "quantity": ""
+            }
+        ],
+        "instructions": "Tereyağı ve pudra şekerini krema kıvamına gelene dek çırpıyoruz. İçerisine sırasıyla yumurta sarısı, un, badem unu ve kırılmış bademleri ekliyoruz. Hazırlanan hamuru dolapta tercihen 1 saat dinlendiriyoruz. Sonrasında ceviz büyüklüğünde parçalar alıp elimizde yuvarlıyoruz. Üstlerine birer badem ekleyip önceden 160-170 derecede ısıtılmış fırında 10-15 dakika arasında pişiriyoruz. Kenarları hafif kahverengileşince kurabiyelerimiz fırından çıkmaya hazır. Badem unu yerince ince ince kıyılmış badem de koyabilirsiniz",
+        "cook_time": 15,
+        "prep_time": 10,
+        "desc": "Geçen gün evdeki badem unlarımla bir şeyler yapayım dedim ve bu nefis ötesi kurabiyeleri yaptım. Bu kurabiyeyle ilgili beni en zorlayan şey tereyağının kokusunun mu yoksa badem tadının mı daha cezbedici olduğuna karar vermek oldu.🫠🤤 Yani o kadar güzel oldular ki ne ara bittiler anlamadım bile. Tepsiden bir tabağa alırken 3 tane yedim bile, öyle söyleyeyim🤫🤫",
+        "link": "https://www.instagram.com/p/ClY7VemAzpN/",
+        "ingr_list": [
+            "Tereyağı",
+            "Pudra şekeri",
+            "Yumurta sarısı",
+            "Un",
+            "Badem unu",
+            "Çiğ badem"
+        ]
+    },
+    {
+        "id": 3,
+        "recipe_name": "Levain Kurabiye",
+        "ingredients": [
+            {
+                "name": "tereyağı (oda sıcaklığında)",
+                "quantity": "100 gr"
+            },
+            {
+                "name": "esmer şeker + toz şeker",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "pudra şekeri",
+                "quantity": "1/2 sb"
+            },
+            {
+                "name": "yumurta",
+                "quantity": "2 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "3 sb"
+            },
+            {
+                "name": "kabartma tozu",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "karbonat",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "damla ya da parça çikolata",
+                "quantity": "150 gr"
+            }
+        ],
+        "instructions": "Tereyağı ile toz şekerleri şekerler erimeye başlayana kadar çırpıyoruz. Daha sonra pudra şekerini de ekleyip çırpmaya devam ediyoruz. Yumurtaları teker teker ekleyerek çırpmaya devam ediyoruz ama aşırı çırpmamaya özen gösterin. En son olarak kuru malzemeler ile çikolatayı da ekleyip bir spatula yardımıyla karıştırıyoruz ve dinlenmesi için 1 saat buzdolabına kaldırıyoruz. 1 saatin sonunda tercihen bir dondurma kaşığı yardımıyla kurabiyeleri bölüştürüp önceden 180 derecede ısıtılmış fırında kenarları renk değiştirmeye başlayana kadar pişiriyoruz. Bu aşamada dikkatli olmakta fayda var, çok pişmemesi çok önemli. Çıkardığınızda hala üstlerinin biraz yumuşak olmasi gerekiyor, soğuyunca sertleşecektir o. Sonra da yanına ya süt ya da kahve alıyoruz ve peşpeşe 3 tane yememeye çalışıyoruz😄🙈",
+        "cook_time": 10,
+        "prep_time": 10,
+        "desc": "Bu kurabiye ile ilgili diyeceğim ilk ve en önemli şey: ben hayatımda böyle bir kurabiye hiç yemedim. Bu öyle bir kurabiye ki, hem cookie gibi dış kısımları daha kıyır ama içi yumuşacık hem de bizim kurabiyelerimiz gibi kalın ve tok. Ama en önemli tarafı: ÇİKOLATA DOLU!!🤤🍫 Aslında levain kurabiye de bu, New York'ta 1994 yılında 2 kadın Levain Bakery diye bir yer açıyorlar ve denildiğine göre dünyanın en iyi cookie'sini yapıyorlar. Bu tarifi denediğinizde ne demek istediğimi anlayacaksınız. Keşke deneyenlerin tecrübelerini de buraya yazabilsem size.. Neyse, sözü daha uzatmadan haftasonunuzu şenlendirecek tarifi bırakıyorum.",
+        "link": "https://www.instagram.com/p/CI_MC88gU39/",
+        "ingr_list": [
+            "Tereyağı",
+            "Çikolata",
+            "Un",
+            "Yumurta",
+            "Şeker",
+            "Kabartma tozu",
+            "Karbonat"
+        ]
+    },
+    {
+        "id": 3,
+        "recipe_name": "Levain Kurabiye",
+        "ingredients": [
+            {
+                "name": "tereyağı (oda sıcaklığında)",
+                "quantity": "100 gr"
+            },
+            {
+                "name": "esmer şeker + toz şeker",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "pudra şekeri",
+                "quantity": "1/2 sb"
+            },
+            {
+                "name": "yumurta",
+                "quantity": "2 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "3 sb"
+            },
+            {
+                "name": "kabartma tozu",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "karbonat",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "damla ya da parça çikolata",
+                "quantity": "150 gr"
+            }
+        ],
+        "instructions": "Tereyağı ile toz şekerleri şekerler erimeye başlayana kadar çırpıyoruz. Daha sonra pudra şekerini de ekleyip çırpmaya devam ediyoruz. Yumurtaları teker teker ekleyerek çırpmaya devam ediyoruz ama aşırı çırpmamaya özen gösterin. En son olarak kuru malzemeler ile çikolatayı da ekleyip bir spatula yardımıyla karıştırıyoruz ve dinlenmesi için 1 saat buzdolabına kaldırıyoruz. 1 saatin sonunda tercihen bir dondurma kaşığı yardımıyla kurabiyeleri bölüştürüp önceden 180 derecede ısıtılmış fırında kenarları renk değiştirmeye başlayana kadar pişiriyoruz. Bu aşamada dikkatli olmakta fayda var, çok pişmemesi çok önemli. Çıkardığınızda hala üstlerinin biraz yumuşak olmasi gerekiyor, soğuyunca sertleşecektir o. Sonra da yanına ya süt ya da kahve alıyoruz ve peşpeşe 3 tane yememeye çalışıyoruz😄🙈",
+        "cook_time": 10,
+        "prep_time": 10,
+        "desc": "Bu kurabiye ile ilgili diyeceğim ilk ve en önemli şey: ben hayatımda böyle bir kurabiye hiç yemedim. Bu öyle bir kurabiye ki, hem cookie gibi dış kısımları daha kıyır ama içi yumuşacık hem de bizim kurabiyelerimiz gibi kalın ve tok. Ama en önemli tarafı: ÇİKOLATA DOLU!!🤤🍫 Aslında levain kurabiye de bu, New York'ta 1994 yılında 2 kadın Levain Bakery diye bir yer açıyorlar ve denildiğine göre dünyanın en iyi cookie'sini yapıyorlar. Bu tarifi denediğinizde ne demek istediğimi anlayacaksınız. Keşke deneyenlerin tecrübelerini de buraya yazabilsem size.. Neyse, sözü daha uzatmadan haftasonunuzu şenlendirecek tarifi bırakıyorum.",
+        "link": "https://www.instagram.com/p/CI_MC88gU39/",
+        "ingr_list": [
+            "Tereyağı",
+            "Çikolata",
+            "Un",
+            "Yumurta",
+            "Şeker",
+            "Kabartma tozu",
+            "Karbonat"
+        ]
+    }
+]
