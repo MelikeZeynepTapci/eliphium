@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 
 function NavbarComponent() {
     return (
-        <Navbar bg="light" expand="xxl" fixed="top" className='pb-3 pt-3'>
+        <Navbar bg="light" expand="xxl" fixed="top" className='pb-3 pt-3 light'>
             <Container>
                 <Navbar.Brand>
                     Eliphium

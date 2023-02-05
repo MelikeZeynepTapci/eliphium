@@ -10,7 +10,7 @@ import FooterComponent from '../components/Footer';
 
 function Home() {
     return (
-        <Container style={{ backgroundImage: `url(${bg})` }}>
+        <Container style={{ backgroundColor: "#F9F6F0" }}>
             <div className='pb-5'>
                 <NavbarComponent></NavbarComponent>
             </div>
