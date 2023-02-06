@@ -1,13 +1,11 @@
 import React from 'react'
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button'
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
-import { BsFillAlarmFill, BsStars } from 'react-icons/bs'
+import { BsFillAlarmFill } from 'react-icons/bs'
 
 
 
-function RecipeCardComponent({ title, img, text, prepTime, cookTime, ingr }) {
+function RecipeCardComponent({ title, img, text, prepTime, cookTime, ingr, category }) {
 
     const showIngredients = ingr.map((ingrItem) => (
         <Button className="m-2" variant="outline-success" disabled={true}>{ingrItem}</Button>
@@ -19,7 +17,7 @@ function RecipeCardComponent({ title, img, text, prepTime, cookTime, ingr }) {
             <Card.Body>
                 <Card.Title>{title}</Card.Title>
                 <Card.Text>
-                    {text}
+                    {category} {text}
                 </Card.Text>
                 <hr></hr>
                 <div style={{ textAlign: "center" }}>
@@ -37,7 +35,7 @@ function RecipeCardComponent({ title, img, text, prepTime, cookTime, ingr }) {
                     {showIngredients}
                 </div>
                 <hr></hr>
-                <span class="d-flex justify-content-center">
+                <span className="d-flex justify-content-center">
                     <Button className="ml-5 btn-danger" variant="primary">Tarifi İncele</Button>
                 </span>
             </Card.Body>

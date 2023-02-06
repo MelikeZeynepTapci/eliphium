@@ -52,7 +52,8 @@
             "Un",
             "Zencefil, Tarçın, Muskat",
             "Pekmez"
-        ]
+        ],
+        "category": "tatlı"
     },
     {
         "id": 2,
@@ -95,7 +96,8 @@
             "Un",
             "Badem unu",
             "Çiğ badem"
-        ]
+        ],
+        "category": "tatlı"
     },
     {
         "id": 3,
@@ -147,7 +149,8 @@
             "Şeker",
             "Kabartma tozu",
             "Karbonat"
-        ]
+        ],
+        "category": "tatlı"
     },
     {
         "id": 3,
@@ -199,6 +202,113 @@
             "Şeker",
             "Kabartma tozu",
             "Karbonat"
-        ]
+        ],
+        "category": "tatlı"
+    },
+    {
+        "id": 4,
+        "recipe_name": "Tuzlu 1",
+        "ingredients": [
+            {
+                "name": "tereyağı (oda sıcaklığında)",
+                "quantity": "100 gr"
+            },
+            {
+                "name": "esmer şeker + toz şeker",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "pudra şekeri",
+                "quantity": "1/2 sb"
+            },
+            {
+                "name": "yumurta",
+                "quantity": "2 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "3 sb"
+            },
+            {
+                "name": "kabartma tozu",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "karbonat",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "damla ya da parça çikolata",
+                "quantity": "150 gr"
+            }
+        ],
+        "instructions": "Tereyağı ile toz şekerleri şekerler erimeye başlayana kadar çırpıyoruz. Daha sonra pudra şekerini de ekleyip çırpmaya devam ediyoruz. Yumurtaları teker teker ekleyerek çırpmaya devam ediyoruz ama aşırı çırpmamaya özen gösterin. En son olarak kuru malzemeler ile çikolatayı da ekleyip bir spatula yardımıyla karıştırıyoruz ve dinlenmesi için 1 saat buzdolabına kaldırıyoruz. 1 saatin sonunda tercihen bir dondurma kaşığı yardımıyla kurabiyeleri bölüştürüp önceden 180 derecede ısıtılmış fırında kenarları renk değiştirmeye başlayana kadar pişiriyoruz. Bu aşamada dikkatli olmakta fayda var, çok pişmemesi çok önemli. Çıkardığınızda hala üstlerinin biraz yumuşak olmasi gerekiyor, soğuyunca sertleşecektir o. Sonra da yanına ya süt ya da kahve alıyoruz ve peşpeşe 3 tane yememeye çalışıyoruz😄🙈",
+        "cook_time": 10,
+        "prep_time": 10,
+        "desc": "Bu kurabiye ile ilgili diyeceğim ilk ve en önemli şey: ben hayatımda böyle bir kurabiye hiç yemedim. Bu öyle bir kurabiye ki, hem cookie gibi dış kısımları daha kıyır ama içi yumuşacık hem de bizim kurabiyelerimiz gibi kalın ve tok. Ama en önemli tarafı: ÇİKOLATA DOLU!!🤤🍫 Aslında levain kurabiye de bu, New York'ta 1994 yılında 2 kadın Levain Bakery diye bir yer açıyorlar ve denildiğine göre dünyanın en iyi cookie'sini yapıyorlar. Bu tarifi denediğinizde ne demek istediğimi anlayacaksınız. Keşke deneyenlerin tecrübelerini de buraya yazabilsem size.. Neyse, sözü daha uzatmadan haftasonunuzu şenlendirecek tarifi bırakıyorum.",
+        "link": "https://www.instagram.com/p/CI_MC88gU39/",
+        "ingr_list": [
+            "Tereyağı",
+            "Çikolata",
+            "Un",
+            "Yumurta",
+            "Şeker",
+            "Kabartma tozu",
+            "Karbonat"
+        ],
+        "category": "tuzlu"
+    },
+    {
+        "id": 4,
+        "recipe_name": "Aperatif 1",
+        "ingredients": [
+            {
+                "name": "tereyağı (oda sıcaklığında)",
+                "quantity": "100 gr"
+            },
+            {
+                "name": "esmer şeker + toz şeker",
+                "quantity": "1 sb"
+            },
+            {
+                "name": "pudra şekeri",
+                "quantity": "1/2 sb"
+            },
+            {
+                "name": "yumurta",
+                "quantity": "2 adet"
+            },
+            {
+                "name": "un",
+                "quantity": "3 sb"
+            },
+            {
+                "name": "kabartma tozu",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "karbonat",
+                "quantity": "1 silme tk"
+            },
+            {
+                "name": "damla ya da parça çikolata",
+                "quantity": "150 gr"
+            }
+        ],
+        "instructions": "Tereyağı ile toz şekerleri şekerler erimeye başlayana kadar çırpıyoruz. Daha sonra pudra şekerini de ekleyip çırpmaya devam ediyoruz. Yumurtaları teker teker ekleyerek çırpmaya devam ediyoruz ama aşırı çırpmamaya özen gösterin. En son olarak kuru malzemeler ile çikolatayı da ekleyip bir spatula yardımıyla karıştırıyoruz ve dinlenmesi için 1 saat buzdolabına kaldırıyoruz. 1 saatin sonunda tercihen bir dondurma kaşığı yardımıyla kurabiyeleri bölüştürüp önceden 180 derecede ısıtılmış fırında kenarları renk değiştirmeye başlayana kadar pişiriyoruz. Bu aşamada dikkatli olmakta fayda var, çok pişmemesi çok önemli. Çıkardığınızda hala üstlerinin biraz yumuşak olmasi gerekiyor, soğuyunca sertleşecektir o. Sonra da yanına ya süt ya da kahve alıyoruz ve peşpeşe 3 tane yememeye çalışıyoruz😄🙈",
+        "cook_time": 10,
+        "prep_time": 10,
+        "desc": "Bu kurabiye ile ilgili diyeceğim ilk ve en önemli şey: ben hayatımda böyle bir kurabiye hiç yemedim. Bu öyle bir kurabiye ki, hem cookie gibi dış kısımları daha kıyır ama içi yumuşacık hem de bizim kurabiyelerimiz gibi kalın ve tok. Ama en önemli tarafı: ÇİKOLATA DOLU!!🤤🍫 Aslında levain kurabiye de bu, New York'ta 1994 yılında 2 kadın Levain Bakery diye bir yer açıyorlar ve denildiğine göre dünyanın en iyi cookie'sini yapıyorlar. Bu tarifi denediğinizde ne demek istediğimi anlayacaksınız. Keşke deneyenlerin tecrübelerini de buraya yazabilsem size.. Neyse, sözü daha uzatmadan haftasonunuzu şenlendirecek tarifi bırakıyorum.",
+        "link": "https://www.instagram.com/p/CI_MC88gU39/",
+        "ingr_list": [
+            "Tereyağı",
+            "Çikolata",
+            "Un",
+            "Yumurta",
+            "Şeker",
+            "Kabartma tozu",
+            "Karbonat"
+        ],
+        "category": "aperatif"
     }
 ]
