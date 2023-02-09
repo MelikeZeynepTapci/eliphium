@@ -32,10 +32,6 @@ function RecipeCardsComponent(props) {
                         ></RecipeCardComponent>
                     </Col>
                 ))}
-
-
-
-
             </Row>
         </Container>
     );

@@ -34,7 +34,7 @@ function NavbarComponent() {
                             </NavDropdown.Item>
                         </NavDropdown>
                         <Nav.Link className="px-5">
-                            <Link to="/About">Hakkımda</Link>
+                            <Link to="/Recipe">Hakkımda</Link>
                         </Nav.Link>
                         <Nav.Link className="px-5">
                             <Link to="/Contact">İletişim</Link>

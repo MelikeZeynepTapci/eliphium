@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Recipes from './pages/RecipePage';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import Recipe from './pages/Recipe';
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home />} />
         <Route path='/RecipePage' element={<Recipes />} />
-        <Route path='/About' element={<About />} />
+        <Route path='/Recipe' element={<Recipe />} />
         <Route path='/Contact' element={<Contact />} />
       </Routes>
     </BrowserRouter>
